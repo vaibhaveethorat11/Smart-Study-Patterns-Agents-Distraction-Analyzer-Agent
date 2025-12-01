@@ -1,7 +1,7 @@
 # Smart Study Patterns & Distraction Analyzer (ADK-style)
 
 This repository contains the Colab-ready ADK-style multi-agent capstone:
-- **Gemini 1.5 Flash** LLM for reasoning (free via Google GenAI)
+- **Gemini 2.5 Flash** LLM for reasoning (free via Google GenAI)
 - **ADK-style simulation**: Analyzer, Distraction Detector, Coach, Coordinator
 - Realistic synthetic dataset generator (privacy-first)
 - EDA, multi-agent pipeline, and generated report
@@ -15,7 +15,7 @@ This repository contains the Colab-ready ADK-style multi-agent capstone:
 
 ## Quickstart (Colab)
 1. Open `notebooks/Smart_Study_ADK_Version.ipynb` in Google Colab.
-2. Add your Gemini API key to Colab Secrets as `GEMINI_API_KEY`.
+2. Add your Gemini API key to Colab Secrets as `GOOGLE_API_KEY`.
 3. Run all cells top-to-bottom.
 4. `agent_report.json` will be produced in the working directory.
 
