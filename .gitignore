@@ -1,0 +1,11 @@
+# Secrets
+*.env
+secrets.json
+# Colab cache / outputs
+*.pyc
+__pycache__/
+agent_report.json
+# Notebooks checkpoint
+.ipynb_checkpoints
+# Do not commit API keys
+.env
