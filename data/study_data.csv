@@ -1,0 +1,151 @@
+start_time,end_time,duration_minutes,subject,focus_score,distraction_type,distraction_count,is_weekend,exam_week
+2025-01-21 07:01:00,2025-01-21 08:51:00,110,Math,73,Social Media,6,False,True
+2025-01-22 21:57:00,2025-01-23 00:56:00,179,Math,52,Phone Notifications,1,False,True
+2025-01-07 09:32:00,2025-01-07 11:19:00,107,English,51,Messages,1,False,False
+2025-01-21 21:34:00,2025-01-22 00:01:00,147,English,61,Phone Notifications,2,False,True
+2025-01-14 11:17:00,2025-01-14 12:06:00,49,Programming,63,None,0,False,False
+2025-01-04 07:24:00,2025-01-04 07:56:00,32,Programming,72,None,0,True,False
+2025-01-20 10:51:00,2025-01-20 11:42:00,51,AI/ML,85,Internal Thought,1,False,True
+2025-01-10 20:39:00,2025-01-10 23:02:00,143,Math,73,Messages,5,False,False
+2025-01-02 20:14:00,2025-01-02 22:22:00,128,Physics,68,Phone Notifications,6,False,False
+2025-01-28 07:24:00,2025-01-28 08:29:00,65,Programming,79,Fatigue,6,False,False
+2025-01-06 11:22:00,2025-01-06 12:18:00,56,English,92,Noise,5,False,False
+2025-01-21 07:38:00,2025-01-21 09:01:00,83,Chemistry,92,Social Media,4,False,True
+2025-01-09 20:44:00,2025-01-09 22:25:00,101,Math,64,Social Media,6,False,False
+2025-01-08 06:51:00,2025-01-08 08:01:00,70,Physics,75,Noise,0,False,False
+2025-01-30 19:56:00,2025-01-30 21:57:00,121,Chemistry,70,Social Media,5,False,False
+2025-01-13 20:29:00,2025-01-13 21:17:00,48,English,66,Messages,1,False,False
+2025-01-18 17:16:00,2025-01-18 18:50:00,94,Programming,77,Messages,3,True,False
+2025-01-08 08:32:00,2025-01-08 10:05:00,93,Math,55,None,0,False,False
+2025-01-28 07:09:00,2025-01-28 08:59:00,110,English,60,None,0,False,False
+2025-01-14 19:04:00,2025-01-14 20:23:00,79,AI/ML,74,Messages,3,False,False
+2025-01-09 17:55:00,2025-01-09 20:25:00,150,Math,50,Fatigue,5,False,False
+2025-01-22 17:48:00,2025-01-22 19:36:00,108,Chemistry,100,Phone Notifications,3,False,True
+2025-01-06 16:00:00,2025-01-06 18:02:00,122,Physics,66,Messages,6,False,False
+2025-01-17 07:55:00,2025-01-17 09:45:00,110,English,69,None,0,False,False
+2025-01-17 19:12:00,2025-01-17 20:01:00,49,Physics,73,None,0,False,False
+2025-01-18 17:58:00,2025-01-18 18:18:00,20,Math,88,Noise,3,True,False
+2025-01-04 11:56:00,2025-01-04 12:55:00,59,AI/ML,65,Phone Notifications,1,True,False
+2025-01-31 07:05:00,2025-01-31 09:08:00,123,Math,81,None,0,False,False
+2025-01-25 17:49:00,2025-01-25 19:01:00,72,Programming,70,Messages,2,True,True
+2025-01-17 19:27:00,2025-01-17 20:24:00,57,English,84,None,0,False,False
+2025-01-23 09:45:00,2025-01-23 11:44:00,119,Chemistry,85,Internal Thought,5,False,True
+2025-01-04 09:14:00,2025-01-04 09:42:00,28,AI/ML,71,Phone Notifications,4,True,False
+2025-01-08 19:14:00,2025-01-08 19:44:00,30,Math,54,Fatigue,5,False,False
+2025-01-08 07:57:00,2025-01-08 08:31:00,34,Physics,71,Phone Notifications,4,False,False
+2025-01-09 20:31:00,2025-01-09 21:28:00,57,AI/ML,84,Messages,5,False,False
+2025-01-19 16:15:00,2025-01-19 17:35:00,80,Math,76,Social Media,0,True,False
+2025-01-22 15:22:00,2025-01-22 17:50:00,148,Math,88,None,6,False,True
+2025-01-22 20:41:00,2025-01-22 21:46:00,65,Physics,64,Social Media,1,False,True
+2025-01-07 09:34:00,2025-01-07 11:01:00,87,Programming,58,Internal Thought,1,False,False
+2025-01-15 09:55:00,2025-01-15 12:23:00,148,AI/ML,54,Internal Thought,6,False,False
+2025-01-04 06:41:00,2025-01-04 08:10:00,89,Physics,50,Phone Notifications,6,True,False
+2025-01-06 15:31:00,2025-01-06 17:02:00,91,Chemistry,63,None,0,False,False
+2025-01-29 06:10:00,2025-01-29 07:28:00,78,Chemistry,50,Internal Thought,2,False,False
+2025-01-10 15:44:00,2025-01-10 17:47:00,123,Chemistry,85,Fatigue,5,False,False
+2025-01-05 09:18:00,2025-01-05 10:05:00,47,AI/ML,53,Messages,5,True,False
+2025-01-02 21:20:00,2025-01-02 21:57:00,37,AI/ML,39,None,0,False,False
+2025-01-30 17:10:00,2025-01-30 17:47:00,37,Physics,82,Phone Notifications,6,False,False
+2025-01-03 19:04:00,2025-01-03 21:00:00,116,AI/ML,65,Internal Thought,0,False,False
+2025-01-08 19:38:00,2025-01-08 20:13:00,35,English,89,Phone Notifications,3,False,False
+2025-01-19 19:33:00,2025-01-19 20:33:00,60,English,66,Social Media,5,True,False
+2025-01-11 09:16:00,2025-01-11 10:26:00,70,Programming,58,Fatigue,5,True,False
+2025-01-15 11:59:00,2025-01-15 14:05:00,126,AI/ML,54,Phone Notifications,3,False,False
+2025-01-19 07:04:00,2025-01-19 08:32:00,88,Physics,63,Messages,2,True,False
+2025-01-30 11:56:00,2025-01-30 12:34:00,38,Physics,65,Noise,2,False,False
+2025-01-15 17:45:00,2025-01-15 18:53:00,68,English,89,None,0,False,False
+2025-01-17 06:42:00,2025-01-17 08:56:00,134,Math,85,Noise,5,False,False
+2025-01-31 08:16:00,2025-01-31 09:00:00,44,Physics,56,Fatigue,4,False,False
+2025-01-09 10:38:00,2025-01-09 11:34:00,56,English,95,Noise,1,False,False
+2025-01-21 10:32:00,2025-01-21 13:17:00,165,Chemistry,71,Phone Notifications,6,False,True
+2025-01-27 10:02:00,2025-01-27 10:32:00,30,Physics,71,None,0,False,False
+2025-01-21 10:10:00,2025-01-21 12:43:00,153,Math,96,Messages,1,False,True
+2025-01-03 21:57:00,2025-01-03 22:46:00,49,AI/ML,79,Social Media,4,False,False
+2025-01-05 15:08:00,2025-01-05 15:33:00,25,Math,69,Noise,6,True,False
+2025-01-29 11:13:00,2025-01-29 13:10:00,117,Programming,65,Fatigue,0,False,False
+2025-01-25 17:56:00,2025-01-25 20:20:00,144,Physics,96,Social Media,2,True,True
+2025-01-29 15:01:00,2025-01-29 15:53:00,52,Chemistry,71,None,0,False,False
+2025-01-26 20:55:00,2025-01-26 22:38:00,103,Math,74,Phone Notifications,4,True,True
+2025-01-28 16:14:00,2025-01-28 17:09:00,55,Physics,79,Noise,2,False,False
+2025-01-08 06:42:00,2025-01-08 07:36:00,54,Math,75,Noise,2,False,False
+2025-01-31 10:22:00,2025-01-31 12:14:00,112,AI/ML,82,Internal Thought,5,False,False
+2025-01-11 06:07:00,2025-01-11 07:00:00,53,Math,61,Messages,2,True,False
+2025-01-04 19:27:00,2025-01-04 20:31:00,64,AI/ML,70,Internal Thought,4,True,False
+2025-01-04 15:57:00,2025-01-04 17:30:00,93,English,62,Noise,0,True,False
+2025-01-14 06:33:00,2025-01-14 09:01:00,148,English,84,Fatigue,5,False,False
+2025-01-24 20:12:00,2025-01-24 22:25:00,133,Programming,83,Social Media,5,False,True
+2025-01-22 07:46:00,2025-01-22 09:42:00,116,Programming,91,Fatigue,4,False,True
+2025-01-13 21:18:00,2025-01-13 22:58:00,100,English,50,None,0,False,False
+2025-01-31 15:43:00,2025-01-31 17:48:00,125,Programming,61,Messages,4,False,False
+2025-01-13 17:53:00,2025-01-13 18:23:00,30,Chemistry,69,Noise,1,False,False
+2025-01-26 19:38:00,2025-01-26 21:40:00,122,Physics,91,Internal Thought,6,True,True
+2025-01-17 16:50:00,2025-01-17 19:15:00,145,Programming,60,Fatigue,0,False,False
+2025-01-17 20:40:00,2025-01-17 22:29:00,109,Physics,71,Phone Notifications,6,False,False
+2025-01-22 10:14:00,2025-01-22 11:44:00,90,Chemistry,64,Phone Notifications,2,False,True
+2025-01-20 07:29:00,2025-01-20 09:55:00,146,Chemistry,98,Fatigue,6,False,True
+2025-01-16 15:15:00,2025-01-16 16:03:00,48,Math,91,Fatigue,0,False,False
+2025-01-25 15:14:00,2025-01-25 16:39:00,85,Physics,100,Phone Notifications,5,True,True
+2025-01-30 07:29:00,2025-01-30 08:16:00,47,AI/ML,79,Fatigue,4,False,False
+2025-01-20 11:48:00,2025-01-20 14:21:00,153,Chemistry,100,None,5,False,True
+2025-01-29 08:47:00,2025-01-29 11:07:00,140,Physics,80,Internal Thought,2,False,False
+2025-01-27 20:17:00,2025-01-27 22:25:00,128,English,83,None,0,False,False
+2025-01-08 10:28:00,2025-01-08 11:07:00,39,Programming,95,Noise,1,False,False
+2025-01-11 11:57:00,2025-01-11 13:26:00,89,Physics,55,Social Media,1,True,False
+2025-01-13 21:09:00,2025-01-13 23:09:00,120,Chemistry,57,None,0,False,False
+2025-01-11 17:29:00,2025-01-11 18:42:00,73,Chemistry,53,Social Media,6,True,False
+2025-01-13 19:44:00,2025-01-13 20:16:00,32,Math,86,Internal Thought,3,False,False
+2025-01-31 11:19:00,2025-01-31 13:25:00,126,Chemistry,74,None,0,False,False
+2025-01-18 21:47:00,2025-01-18 23:16:00,89,Physics,80,None,0,True,False
+2025-01-09 15:31:00,2025-01-09 16:04:00,33,English,74,Noise,5,False,False
+2025-01-26 15:46:00,2025-01-26 17:08:00,82,Math,86,Messages,5,True,True
+2025-01-30 15:37:00,2025-01-30 17:19:00,102,English,92,Phone Notifications,0,False,False
+2025-01-14 08:55:00,2025-01-14 10:24:00,89,Chemistry,61,Phone Notifications,2,False,False
+2025-01-11 09:29:00,2025-01-11 10:30:00,61,Chemistry,71,None,0,True,False
+2025-01-09 15:16:00,2025-01-09 17:32:00,136,English,55,Internal Thought,0,False,False
+2025-01-18 06:22:00,2025-01-18 07:10:00,48,English,91,Phone Notifications,6,True,False
+2025-01-02 06:15:00,2025-01-02 07:10:00,55,Physics,51,Messages,1,False,False
+2025-01-05 16:42:00,2025-01-05 17:16:00,34,English,86,Social Media,3,True,False
+2025-01-09 11:10:00,2025-01-09 12:57:00,107,Math,88,Fatigue,5,False,False
+2025-01-25 08:19:00,2025-01-25 09:26:00,67,English,92,Noise,5,True,True
+2025-01-30 15:25:00,2025-01-30 17:55:00,150,AI/ML,95,Social Media,0,False,False
+2025-01-23 20:15:00,2025-01-23 21:21:00,66,Math,100,Phone Notifications,5,False,True
+2025-01-12 17:27:00,2025-01-12 18:34:00,67,Programming,54,Messages,5,True,False
+2025-01-01 15:52:00,2025-01-01 17:24:00,92,English,56,Internal Thought,2,False,False
+2025-01-29 16:45:00,2025-01-29 17:34:00,49,AI/ML,77,Social Media,5,False,False
+2025-01-31 20:17:00,2025-01-31 22:05:00,108,Chemistry,84,None,0,False,False
+2025-01-14 21:37:00,2025-01-14 22:41:00,64,Chemistry,62,Phone Notifications,2,False,False
+2025-01-08 16:36:00,2025-01-08 18:24:00,108,Math,92,Internal Thought,2,False,False
+2025-01-16 11:11:00,2025-01-16 12:43:00,92,Programming,63,Noise,6,False,False
+2025-01-11 10:56:00,2025-01-11 12:32:00,96,Math,94,Noise,4,True,False
+2025-01-17 09:05:00,2025-01-17 10:05:00,60,Physics,76,Internal Thought,4,False,False
+2025-01-23 16:41:00,2025-01-23 19:26:00,165,Physics,83,Phone Notifications,3,False,True
+2025-01-13 21:15:00,2025-01-13 22:24:00,69,AI/ML,78,Social Media,3,False,False
+2025-01-17 11:27:00,2025-01-17 13:32:00,125,English,85,Noise,2,False,False
+2025-01-15 10:19:00,2025-01-15 11:21:00,62,Physics,64,Phone Notifications,5,False,False
+2025-01-11 07:47:00,2025-01-11 09:15:00,88,Physics,94,Social Media,1,True,False
+2025-01-24 16:17:00,2025-01-24 19:11:00,174,Programming,97,Phone Notifications,2,False,True
+2025-01-08 11:11:00,2025-01-08 12:19:00,68,Physics,50,Fatigue,4,False,False
+2025-01-09 06:03:00,2025-01-09 07:43:00,100,English,68,Fatigue,1,False,False
+2025-01-28 16:06:00,2025-01-28 18:27:00,141,Chemistry,50,Messages,2,False,False
+2025-01-16 16:21:00,2025-01-16 17:14:00,53,Chemistry,53,Noise,6,False,False
+2025-01-04 07:25:00,2025-01-04 08:47:00,82,English,54,Messages,5,True,False
+2025-01-02 08:09:00,2025-01-02 10:22:00,133,Physics,86,Noise,0,False,False
+2025-01-04 17:48:00,2025-01-04 19:01:00,73,AI/ML,88,Messages,6,True,False
+2025-01-08 17:24:00,2025-01-08 18:51:00,87,AI/ML,78,Noise,6,False,False
+2025-01-14 10:36:00,2025-01-14 12:25:00,109,Math,53,Messages,5,False,False
+2025-01-31 09:40:00,2025-01-31 10:37:00,57,Physics,66,Fatigue,0,False,False
+2025-01-08 08:35:00,2025-01-08 09:14:00,39,Chemistry,60,Phone Notifications,3,False,False
+2025-01-23 19:30:00,2025-01-23 21:24:00,114,Programming,60,Noise,6,False,True
+2025-01-23 16:04:00,2025-01-23 17:43:00,99,AI/ML,74,Internal Thought,1,False,True
+2025-01-08 20:09:00,2025-01-08 22:35:00,146,Math,67,Messages,0,False,False
+2025-01-06 10:38:00,2025-01-06 12:43:00,125,Math,86,Noise,3,False,False
+2025-01-15 21:19:00,2025-01-15 23:18:00,119,Chemistry,66,None,0,False,False
+2025-01-03 19:02:00,2025-01-03 21:25:00,143,AI/ML,77,Fatigue,2,False,False
+2025-01-09 06:05:00,2025-01-09 07:04:00,59,AI/ML,93,None,0,False,False
+2025-01-19 06:48:00,2025-01-19 07:42:00,54,Physics,86,Phone Notifications,6,True,False
+2025-01-16 17:41:00,2025-01-16 19:07:00,86,Chemistry,67,Social Media,4,False,False
+2025-01-21 16:05:00,2025-01-21 18:45:00,160,English,83,Noise,3,False,True
+2025-01-04 08:21:00,2025-01-04 09:33:00,72,English,94,Internal Thought,2,True,False
+2025-01-31 15:52:00,2025-01-31 17:59:00,127,Math,85,Phone Notifications,3,False,False
+2025-01-11 10:20:00,2025-01-11 10:54:00,34,AI/ML,75,None,0,True,False
+2025-01-27 06:42:00,2025-01-27 09:03:00,141,Math,84,Internal Thought,3,False,False
