@@ -1,23 +1,37 @@
-# Smart Study Patterns & Distraction Analyzer (ADK Version)
+# Smart Study Patterns & Distraction Analyzer (ADK-style)
 
-This repo contains a Colab-based ADK implementation of the Smart Study Patterns & Distraction Analyzer agent.
+This repository contains the Colab-ready ADK-style multi-agent capstone:
+- **Gemini 1.5 Flash** LLM for reasoning (free via Google GenAI)
+- **ADK-style simulation**: Analyzer, Distraction Detector, Coach, Coordinator
+- Realistic synthetic dataset generator (privacy-first)
+- EDA, multi-agent pipeline, and generated report
 
-## Structure
-- `notebooks/Smart_Study_ADK_Version.ipynb` — Colab notebook with end-to-end pipeline.
-- `agents/` — Agent module code.
-- `tools/` — Deterministic tool modules.
-- `data/` — Sample dataset and generated agent report.
+## Contents
+- `notebooks/Smart_Study_ADK_Version.ipynb` — Colab notebook (main)
+- `agents/` — optional agent modules (refactor if desired)
+- `tools/` — deterministic helper tools
+- `data/study_data.csv` — generated sample dataset
+- `agent_report.json` — sample output from a run
 
-## How to run (Colab)
-1. Open `notebooks/Smart_Study_ADK_Version.ipynb` in Colab.
-2. Install packages: `!pip install google-genai adk` (adk optional).
-3. Add your `GOOGLE_API_KEY` to the environment (or Colab secrets).
-4. Run all cells top-to-bottom.
-5. `data/agent_report.json` will be generated.
+## Quickstart (Colab)
+1. Open `notebooks/Smart_Study_ADK_Version.ipynb` in Google Colab.
+2. Add your Gemini API key to Colab Secrets as `GEMINI_API_KEY`.
+3. Run all cells top-to-bottom.
+4. `agent_report.json` will be produced in the working directory.
 
-## Notes
-- This notebook includes an ADK simulation fallback if the `adk` package is not available in the environment.
-- All data in this repository is synthetic for privacy.
+## Safety & Privacy
+- All example data is synthetic by default.
+- **Do not** commit API keys. Use Colab or GitHub Secrets.
+
+## Files to review
+- `notebooks/Smart_Study_ADK_Version.ipynb` — main demo
+- `agent_report.json` — end-of-run report
+- `README.md` — this file
+
+## Future Work
+- Add persistent memory for long-term personalization
+- Add optional user-uploaded logs handler
+- Create a lightweight frontend (optional)
 
 ## License
 MIT
