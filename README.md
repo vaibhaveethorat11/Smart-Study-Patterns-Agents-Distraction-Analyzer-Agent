@@ -1,7 +1,7 @@
 # Smart Study Patterns & Distraction Analyzer (ADK-style)
 
 This repository contains the Colab-ready ADK-style multi-agent capstone:
-- **Gemini 2.5 Flash** LLM for reasoning (free via Google GenAI)
+- **Gemini 1.5 Flash** LLM for reasoning (free via Google GenAI)
 - **ADK-style simulation**: Analyzer, Distraction Detector, Coach, Coordinator
 - Realistic synthetic dataset generator (privacy-first)
 - EDA, multi-agent pipeline, and generated report
